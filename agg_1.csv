@@ -1,0 +1,16 @@
+technology,category
+Biomass,renewable
+Diesel,fossil
+HFO,fossil
+Gas,fossil
+Nuclear ,nuclear
+Hydro,renewable
+Geothermal,renewable
+Wind,renewable
+PV utility,renewable
+PV rooftop,renewable
+PV with storage,renewable
+CSP,renewable
+CSP with storage,renewable
+Diesel stand-alone,fossil
+Crude Oil (refinery),fossil

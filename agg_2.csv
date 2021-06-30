@@ -1,0 +1,16 @@
+technology,category
+Biomass,biomass
+Diesel,fueloil
+HFO,fueloil
+Gas,gas
+Nuclear ,nuclear
+Hydro,hydro
+Geothermal,geothermal
+Wind,wind
+PV utility,solar
+PV rooftop,solar
+PV with storage,solar
+CSP,solar
+CSP with storage,solar
+Diesel stand-alone,fueloil
+Crude Oil (refinery),fueloil
